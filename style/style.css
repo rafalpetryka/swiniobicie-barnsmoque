@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'swiniobicie';
+    src: url('../fonts/swiniobicie.eot');
+    src: url('../fonts/swiniobicie.eot?#iefix') format('embedded-opentype'), url('../fonts/swiniobicie.woff2') format('woff2'), url('../fonts/swiniobicie.woff') format('woff'), url('../fonts/swiniobicie.ttf') format('truetype'), url('../fonts/swiniobicie.svg#svgFontName') format('svg');
+}
+
+body {
+	
+
+}
+
+article header p{
+	text-align: center;
+	font-family: 'swiniobicie';
+	font-size: 120px;
+	line-height: .3;
+}
